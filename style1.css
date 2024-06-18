@@ -1,0 +1,24 @@
+body {
+    background-image: url('crop-logo-albastru-1.jpg'); /* specifică calea către imaginea de background */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #708090; /* Slate Gray */
+}
+
+/* Stilizare pentru textul de pe pagină */
+.main-content {
+    padding: 50px;
+    text-align: center;
+    color: #FFFFF0; /* Ivory */
+}
+
+/* Stilizare pentru titluri */
+.main-content h1 {
+    color: #800020; /* Maroon */
+}
+
+/* Stilizare pentru paragrafe */
+.main-content p {
+    color: #D3D3D3; /* Light Gray */
+}

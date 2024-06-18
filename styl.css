@@ -1,0 +1,21 @@
+.nav-menu {
+    background-color: #708090; /* Slate Gray */
+    color: #FFFFF0; /* Ivory */
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Stilizare pentru link-uri în meniu */
+.nav-menu a {
+    color: #FFFFF0; /* Ivory */
+    text-decoration: none;
+    margin: 0 10px;
+    padding: 8px 12px;
+    border-radius: 5px;
+}
+
+/* Stilizare pentru hover pe link-uri */
+.nav-menu a:hover {
+    background-color: #800020; /* Maroon */
+    color: #FFFFF0; /* Ivory */
+}
